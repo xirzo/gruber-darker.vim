@@ -73,10 +73,10 @@ hi LspHintText              guifg=#95a99f guibg=#181818
 
 hi link cErrInParen Delimiter
 
-hi BufTabLineCurrent          guifg=#e4e4e4 guibg=#181818 gui=bold
+hi BufTabLineCurrent          guifg=#e4e4e4 guibg=#282828 gui=bold
 hi BufTabLineModifiedCurrent  guifg=#73d936 guibg=#181818 gui=bold
 
-hi BufTabLineActive           guifg=#e4e4e4 guibg=#282828
+hi BufTabLineActive           guifg=#e4e4e4 guibg=#181818
 hi BufTabLineModifiedActive   guifg=#73d936 guibg=#282828
 
 hi BufTabLineHidden           guifg=#95a99f guibg=#282828
